@@ -2,20 +2,20 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Doctors Appointment",
-      "day": "May 5th at 2:30pm",
+      "text": "Doktor Randevusu",
+      "day": "5 Mayıs 11:20",
       "reminder": true
     },
     {
       "id": 2,
-      "text": "Meeting at School",
-      "day": "May 6th at 1:30pm",
-      "reminder": true
+      "text": "Okul Buluşması",
+      "day": "6 Mayıs 13:30",
+      "reminder": false
     },
     {
       "id": 3,
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
+      "text": "Yemek Alışverişi",
+      "day": "7 Mayıs 12:00",
       "reminder": true
     }
   ]
